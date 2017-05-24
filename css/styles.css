@@ -13,12 +13,22 @@ h2 {
 
 .fender {
   font-style: italic;
+  margin-top: 10px;
+  margin-bottom: 15px;
+  border: 10px green solid;
 }
 .gibson {
   color: red;
+  margin-top: 10px;
+  margin-bottom: 15px;
+  border: 10px purple solid;
 }
 .hohner {
  color: blue;
+ margin-top: 10px;
+ margin-bottom: 15px;
+ border: 10px green solid;
+ padding: 20px;
 }
 
 .pink {
