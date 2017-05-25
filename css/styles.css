@@ -11,19 +11,19 @@ h2 {
   text-align: center;
 }
 
-.fender {
+#fender {
   font-style: italic;
   margin-top: 10px;
   margin-bottom: 15px;
-  border: 10px green solid;
+  border: 10px gray solid;
 }
-.gibson {
+#gibson {
   color: red;
   margin-top: 10px;
   margin-bottom: 15px;
   border: 10px purple solid;
 }
-.hohner {
+#hohner {
  color: blue;
  margin-top: 10px;
  margin-bottom: 15px;
@@ -39,6 +39,16 @@ h2 {
   font-style: italic;
 }
 
+.guitar p {
+  padding: 10px;
+  margin: auto;
+}
+
 .bold {
   font-weight: bold;
+}
+
+img {
+  display: block;
+  margin: auto;
 }
